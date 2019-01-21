@@ -1,0 +1,4 @@
+
+
+void tooManyArguments();
+void globalHelpCommand();
